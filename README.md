@@ -1,5 +1,3 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C3FD1&center=true&vCenter=true&width=435&lines=QA%20Test%20Specialist%20%7C%20Automation%20%7C%20API%20%7C%20Playwright%20%7C%20Selenium" alt="Typing SVG" /></a></h3>
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&animationtwist=200" width="100%" />
 
 # Vicky Chauhan
