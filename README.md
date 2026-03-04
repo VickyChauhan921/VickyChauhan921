@@ -66,7 +66,6 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 ---
 
 <p align="center">Generated with ❤️ for QA Engineers</p>
-(https://github.com/ryo-ma/github-trophy)
 
 ## 👀 Profile Views
 
