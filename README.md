@@ -16,14 +16,14 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working at **Maxxton India Pvt. Ltd.**
-- 🤝 I'm looking to collaborate on **I'm looking to collaborate on QA automation projects and testing frameworks**
-- 🔍 I'm looking for help with **🆘 I'm looking for help with advanced Playwright automation and best practices**
-- 🌱 I'm currently learning **🌱 I'm currently learning advanced Playwright automation and scalable testing frameworks**
-- 💬 Ask me about **💬 Ask me about automation strategy, Playwright, Selenium, and testing best practices**
+- 🔭 I'm currently working at **🔭 I'm currently working at Maxxton India Pvt. Ltd.**
+- 🤝 I'm looking to collaborate on **QA automation projects and testing frameworks**
+- 🔍 I'm looking for help with **Advanced Playwright automation and best practices**
+- 🌱 I'm currently learning **Advanced Playwright automation and scalable testing frameworks**
+- 💬 Ask me about **Automation strategy, Playwright, Selenium, and testing best practices**
 - 📫 How to reach me: **vicky.chauhan921@gmail.com**
-- 🌐 All of my projects are available at [here](https://github.com/VickyChauhan921)
-- ⚡ Fun fact: **⚡ Fun fact: I enjoy breaking software before users do 😄**
+- 🌐 All of my projects are available at [here](vicky.chauhan921@gmail.com)
+- ⚡ Fun fact: **I enjoy breaking software before users do 😄**
 
 ## 🛠️ Skills & Tools
 
@@ -51,15 +51,24 @@ QA Test Specialist | Automation | API | Playwright | Selenium
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VickyChauhan921&theme=default&show_icons=true&count_private=true)
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VickyChauhan921&theme=default&hide_border=true" alt="VickyChauhan921's streak" height="180" /></a>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VickyChauhan921&theme=default)
+## 👀 Profile Views
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyChauhan921&theme=default&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=VickyChauhan921&label=Profile%20Views&color=6C3FD1&style=flat)
 
-## 🏆 Trophies
+## 📈 Contribution Graph
 
-[![](https://github-trophies.vercel.app/?username=VickyChauhan921&theme=radical&no-frame=false&no-bg=true&flattr=false&badge_width=0)](https://github.com/ryo-ma/github-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VickyChauhan921&bg_color=ffffff&color=6C3FD1&line=6C3FD1&point=6C3FD1&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<p align="center">Generated with ❤️ for QA Engineers</p>
+(https://github.com/ryo-ma/github-trophy)
 
 ## 👀 Profile Views
 
